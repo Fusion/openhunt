@@ -1,5 +1,9 @@
 # Open Hunt
 
+[![Join the chat at https://gitter.im/Fusion/openhunt](https://badges.gitter.im/Fusion/openhunt.svg)](https://gitter.im/Fusion/openhunt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/OpenHunting/openhunt](https://badges.gitter.im/OpenHunting/openhunt.svg)](https://gitter.im/OpenHunting/openhunt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Open Hunt is a brand new community for fans and builders of early stage technology products. We aim to be completely open and transparent, without insiders or gatekeepers who control who gets listed and who gets left out.
 
 
